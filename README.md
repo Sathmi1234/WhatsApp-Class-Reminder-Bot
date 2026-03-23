@@ -171,7 +171,7 @@ Bot: 📅 Today's Classes:
 
 ---
 
-## 👩 Author
+##  Author
 
 **Sathmi Rajapaksha**
 
